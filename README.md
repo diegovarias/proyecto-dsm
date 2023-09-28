@@ -19,5 +19,5 @@ Este repositorio está licenciado bajo Creative Commons Attribution (CC BY), lo 
 #### Links:
 
 * [Documento Fase 1]
-* [Trello]([https://trello.com/b/dIMTQydJ/proyecto-dps-2023](https://trello.com/b/tnitSMLo/proyecto-dsm-2023))
+* [Trello](https://trello.com/b/tnitSMLo/proyecto-dsm-2023)
 * [Figma](https://www.figma.com/file/xB5ItxLm2GXKmb70ljnGkM/DSM?type=design&node-id=0-1&mode=design)
