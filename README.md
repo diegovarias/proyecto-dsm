@@ -14,7 +14,7 @@
 
 #### Licencia 📄
 
-Este repositorio está licenciado bajo Creative Commons Attribution (CC BY), lo que significa que cualquier persona puede utilizar y distribuir el trabajo contenido aquí, incluso con fines comerciales, siempre y cuando se atribuya adecuadamente al creador original de la obra. Por favor, asegúrese de respetar los términos de la licencia al utilizar el trabajo aquí presente.
+Este repositorio está licenciado bajo Creative Commons Attribution (CC BY), lo que significa que cualquier persona puede utilizar y distribuir el trabajo contenido aquí, incluso con fines comerciales, siempre y cuando se atribuya adecuadamente al creador original de la obra. Esto implica que debe dar crédito de una manera apropiada, proporcionar un enlace a la licencia e indicar si se han realizado cambios. Puede hacerlo de cualquier manera razonable, pero no de una manera que sugiera que el licenciante respalda a usted o su uso del trabajo. Por favor, asegúrese de respetar los términos de la licencia al utilizar el trabajo aquí presente, incluyendo pero no limitado a las condiciones de atribución mencionadas. Si remezcla, transforma o crea a partir del material, debe distribuir su contribución bajo la misma licencia que el original. No se imponen restricciones adicionales — no puede aplicar términos legales o medidas tecnológicas que restrinjan legalmente a otros a hacer cualquier uso permitido por la licencia.
 
 #### Links:
 
