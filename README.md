@@ -23,3 +23,4 @@ Este repositorio está licenciado bajo Creative Commons Attribution (CC BY), lo 
 
 * Video Avance 2: https://youtu.be/f6rak7gEmnM
 * Manual de usuario: https://drive.google.com/file/d/1uGQ-hIbeXp37qCL62uQjo48OCQnsCcqd/view?usp=drive_link
+* Manual Técnico: https://drive.google.com/file/d/1xAkUhrUKRWchGcpcOmfo3ElT6tTp_Pld/view?usp=sharing
