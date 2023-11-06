@@ -20,3 +20,5 @@ Este repositorio está licenciado bajo Creative Commons Attribution (CC BY), lo 
 * [Documento Fase 1](https://drive.google.com/file/d/1cqTRl9Sl3HUe1x9TUaaj4aSMV8nsSF4e/view?usp=sharing)
 * [Trello](https://trello.com/b/tnitSMLo/proyecto-dsm-2023)
 * [Figma](https://www.figma.com/file/xB5ItxLm2GXKmb70ljnGkM/DSM?type=design&node-id=0-1&mode=design)
+
+* Video Avance 2: https://youtu.be/f6rak7gEmnM
