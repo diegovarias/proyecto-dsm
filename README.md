@@ -22,3 +22,4 @@ Este repositorio está licenciado bajo Creative Commons Attribution (CC BY), lo 
 * [Figma](https://www.figma.com/file/xB5ItxLm2GXKmb70ljnGkM/DSM?type=design&node-id=0-1&mode=design)
 
 * Video Avance 2: https://youtu.be/f6rak7gEmnM
+* Manual de usuario: https://drive.google.com/file/d/1uGQ-hIbeXp37qCL62uQjo48OCQnsCcqd/view?usp=drive_link
